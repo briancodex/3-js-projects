@@ -1,0 +1,20 @@
+.mon-closed,.mon-open{
+    font-size: 5rem;
+    position: absolute;
+    margin-top: 50%;
+    margin-bottom: 50%;
+    text-align: center;
+    margin-left: 50%;
+    margin-right: 50%;
+    
+}
+
+.mon-open{
+    margin-bottom: 5rem;
+}
+
+
+.mon-closed{
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
